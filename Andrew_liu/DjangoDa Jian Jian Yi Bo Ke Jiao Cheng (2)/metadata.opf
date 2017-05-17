@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fe387558-f51d-4042-9467-d4eda8417ab9</dc:identifier>
+        <dc:title>Django搭建简易博客教程</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Andrew_liu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>本书主要面向 Django学习者和博客开发者, 其中的代码可以在作者的github上获得, 主要是在Mac上进行开发, 并没有在其他运行环境下做测试</dc:description>
+        <dc:publisher>GitBook</dc:publisher>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;Andrew_liu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-05-17T08:17:59.536037+00:00" name="calibre:timestamp"/>
+        <meta content="Django搭建简易博客教程" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
